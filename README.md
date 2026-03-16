@@ -1,6 +1,6 @@
 # Claude Code App
 
-This repository and README were created by [Claude Code](https://claude.ai/claude-code) — Anthropic's agentic coding CLI.
+This repository and README were created by [Claude Code](https://code.claude.com) — Anthropic's agentic coding CLI.
 
 ## About
 
